@@ -1,0 +1,40 @@
+{
+    "houses": [
+        {
+            "id": 1,
+            "url": "/images/house1.png",
+            "price": 4532,
+            "location": "7123 Morapa Dr."
+        },
+        {
+            "id": 2,
+            "url": "/images/house2.png",
+            "price": 4532,
+            "location": "1302 Dolphin Terrace"
+        },
+        {
+            "id": 3,
+            "url": "/images/house3.png",
+            "price": 4532,
+            "location": "215 Milford Dr."
+        },
+        {
+            "id": 4,
+            "url": "/images/house4.png",
+            "price": 4532,
+            "location": "7123 Morapa Dr."
+        },
+        {
+            "id": 5,
+            "url": "/images/house5.png",
+            "price": 4532,
+            "location": "1455 Sutton St"
+        },
+        {
+            "id": 6,
+            "url": "/images/house6.png",
+            "price": 4532,
+            "location": "215 Milford Dr."
+        }
+    ]
+}

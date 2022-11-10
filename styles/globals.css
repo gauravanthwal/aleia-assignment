@@ -1,0 +1,19 @@
+.image-container{
+    position: relative;
+}
+.price-location{
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+}
+.like{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    color: #fff;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
